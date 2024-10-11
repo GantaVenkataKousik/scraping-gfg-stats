@@ -1,4 +1,4 @@
-# HackerRank User Stats Scraper
+# GeeksForGeeks User Stats Scraper
 
 This project is designed to scrape coding statistics from HackerRank profiles using Python, BeautifulSoup, and Requests. The data scraped includes user rankings, coding scores, streaks, and problems solved across various difficulty levels. The collected data is then stored in a CSV file for further analysis.
 
